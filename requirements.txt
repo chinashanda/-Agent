@@ -1,0 +1,4 @@
+lark-sdk
+lancedb
+openai
+python-dotenv
